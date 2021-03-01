@@ -5,3 +5,4 @@ kiwisolver
 pillow
 pyparsing
 numpy
+scikit-learn

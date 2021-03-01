@@ -3,6 +3,7 @@
 # - not capable of finding non-linear boundaries
 
 import numpy as np
+from matplotlib import pyplot as plt
 
 
 input = np.linspace(-10, 10, 100)
