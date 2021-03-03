@@ -6,3 +6,4 @@ pillow
 pyparsing
 numpy
 scikit-learn
+pil
